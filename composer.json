@@ -1,5 +1,5 @@
 {
-  "name": "silverstripe-elliot/random-pages",
+  "name": "elliot-sawyer/random-pages",
   "description": "Generate random page content",
   "type": "silverstripe-vendormodule",
   "license": "BSD-3-Clause",
@@ -31,7 +31,7 @@
     }
   },
   "support": {
-    "issues": "https://github.com/silverstripe-elliot/random-pages/issues",
-    "source": "https://github.com/silverstripe-elliot/random-pages"
+    "issues": "https://github.com/elliot-sawyer/random-pages/issues",
+    "source": "https://github.com/elliot-sawyer/random-pages"
   }
 }
